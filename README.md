@@ -1,1 +1,5 @@
 # agreement-os
+
+"https://jajbjhiqwvpabuipvsdy.supabase.co";
+
+"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImphamJqaGlxd3ZwYWJ1aXB2c2R5Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODI5NDEzNTgsImV4cCI6MjA5ODUxNzM1OH0.M1k8UIDPF33RZ2CZt6LvqcremidSoIpS_BR7NzwvV6g"; 
